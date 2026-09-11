@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lentrila/.github/refs/heads/main/profile/Lentrila.png" alt="Lentrila Interactive" width="420">
+<img src="https://raw.githubusercontent.com/Lentrila/.github/refs/heads/main/profile/Lentrila.png" alt="Lentrila Interactive" width="350">
 
 # Lentrila Interactive
 
